@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nicolas_perier@mailo.com
+	name = nicolas perier
